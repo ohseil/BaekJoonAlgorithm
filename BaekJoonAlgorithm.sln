@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BaekJoonAlgorithm\BaekJoonAlgorithm.vcxproj", "{77AD32C3-F079-4D5A-B61C-0DB3FA27E1D9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearch\BinarySearch.vcxproj", "{77AD32C3-F079-4D5A-B61C-0DB3FA27E1D9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeDP", "TreeDP\TreeDP.vcxproj", "{4B0C8F7C-CCA1-4D9D-A608-71DE62AC6235}"
 EndProject
